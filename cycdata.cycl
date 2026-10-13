@@ -1,0 +1,558 @@
+{
+  "version": 1,
+  "sourceFile": "英檢報名資料.xlsx",
+  "rows": 8,
+  "cols": 6,
+  "start": 1,
+  "end": 47,
+  "numbers": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+  ],
+  "people": [
+    {
+      "number": "1",
+      "name": "石宜珊"
+    },
+    {
+      "number": "2",
+      "name": "何昀潔"
+    },
+    {
+      "number": "3",
+      "name": "吳羽棠"
+    },
+    {
+      "number": "4",
+      "name": "呂宗豪"
+    },
+    {
+      "number": "5",
+      "name": "呂杰恩"
+    },
+    {
+      "number": "6",
+      "name": "李世諄"
+    },
+    {
+      "number": "7",
+      "name": "李宜珊"
+    },
+    {
+      "number": "8",
+      "name": "李浩宇"
+    },
+    {
+      "number": "9",
+      "name": "周哲安"
+    },
+    {
+      "number": "10",
+      "name": "招淯喆"
+    },
+    {
+      "number": "11",
+      "name": "林幼潔"
+    },
+    {
+      "number": "12",
+      "name": "林佳蕙"
+    },
+    {
+      "number": "13",
+      "name": "林亭萱"
+    },
+    {
+      "number": "14",
+      "name": "林家樺"
+    },
+    {
+      "number": "15",
+      "name": "林嘉政"
+    },
+    {
+      "number": "16",
+      "name": "林樂勳"
+    },
+    {
+      "number": "17",
+      "name": "邱予馨"
+    },
+    {
+      "number": "18",
+      "name": "邱韋翔"
+    },
+    {
+      "number": "19",
+      "name": "胡宏楷"
+    },
+    {
+      "number": "20",
+      "name": "胡品旋"
+    },
+    {
+      "number": "21",
+      "name": "徐泓源"
+    },
+    {
+      "number": "22",
+      "name": "徐若涵"
+    },
+    {
+      "number": "23",
+      "name": "徐湘婷"
+    },
+    {
+      "number": "24",
+      "name": "張家瑋"
+    },
+    {
+      "number": "25",
+      "name": "張靖鳳"
+    },
+    {
+      "number": "26",
+      "name": "梅妤婕"
+    },
+    {
+      "number": "27",
+      "name": "許冠鈞"
+    },
+    {
+      "number": "28",
+      "name": "許富濠"
+    },
+    {
+      "number": "29",
+      "name": "陳沁玲"
+    },
+    {
+      "number": "30",
+      "name": "陳玟蓁"
+    },
+    {
+      "number": "31",
+      "name": "曾家益"
+    },
+    {
+      "number": "32",
+      "name": "曾智釩"
+    },
+    {
+      "number": "33",
+      "name": "黃妍蓁"
+    },
+    {
+      "number": "34",
+      "name": "黃竑勝"
+    },
+    {
+      "number": "35",
+      "name": "楊甯媗"
+    },
+    {
+      "number": "36",
+      "name": "詹博宇"
+    },
+    {
+      "number": "37",
+      "name": "廖苡瑄"
+    },
+    {
+      "number": "38",
+      "name": "趙雯慧"
+    },
+    {
+      "number": "39",
+      "name": "蓮陳楷捷"
+    },
+    {
+      "number": "40",
+      "name": "蔣詩妙"
+    },
+    {
+      "number": "41",
+      "name": "鄭永羲"
+    },
+    {
+      "number": "42",
+      "name": "鄭家城"
+    },
+    {
+      "number": "43",
+      "name": "謝宜軒"
+    },
+    {
+      "number": "44",
+      "name": "鍾念庭"
+    },
+    {
+      "number": "45",
+      "name": "顏少淳"
+    },
+    {
+      "number": "46",
+      "name": "羅映昕"
+    },
+    {
+      "number": "47",
+      "name": "羅浚庠"
+    }
+  ],
+  "seats": [
+    {
+      "id": 0,
+      "number": null,
+      "muted": true
+    },
+    {
+      "id": 1,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 2,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 3,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 4,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 5,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 6,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 7,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 8,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 9,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 10,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 11,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 12,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 13,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 14,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 15,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 16,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 17,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 18,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 19,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 20,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 21,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 22,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 23,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 24,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 25,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 26,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 27,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 28,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 29,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 30,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 31,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 32,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 33,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 34,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 35,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 36,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 37,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 38,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 39,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 40,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 41,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 42,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 43,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 44,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 45,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 46,
+      "number": null,
+      "muted": false
+    },
+    {
+      "id": 47,
+      "number": null,
+      "muted": false
+    }
+  ],
+  "gaps": [
+    [
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    [
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    [
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    [
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    [
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    [
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    [
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    [
+      15,
+      15,
+      15,
+      15,
+      15
+    ]
+  ],
+  "rowOffsets": [
+    0,
+    28,
+    37,
+    88,
+    101,
+    163,
+    174,
+    232
+  ],
+  "archived": []
+}
